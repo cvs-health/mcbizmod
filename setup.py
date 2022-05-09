@@ -17,7 +17,7 @@ from setuptools import setup
 setup(name='mcbizmod',
       version='0.0.1',
       description='Distribution-based business cases.',
-      url='git@github.aetna.com:clinical-product-analytics/mcbizmod.git',
+      url='https://github.com/cvs-health/mcbizmod',
       author='Eugenio Zuccarelli, Eli Goldberg',
       author_email='eugenio.zuccarelli@gmail.com, zuccarellie@aetna.com, goldberge@cvshealth.com',
       packages=['mcbizmod'],
