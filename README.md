@@ -7,18 +7,10 @@
 - Goldberg, Eli *(<GoldbergE@cvshealth.com>)*
 
 ## Installation
-
-**TODO: Update the installation section to leverage PyPi and pip install.**
 In your environment, run
 
 ```
-pip install --upgrade git+https://github.aetna.com/clinical-product-analytics/mcbizmod.git --user
-```
-
-If you want to install a specific branch:
-
-```
-pip install --upgrade git+https://github.aetna.com/clinical-product-analytics/mcbizmod.git@<BRANCH> --user
+pip install mcbizmod
 ```
 
 ## Tests
