@@ -44,12 +44,13 @@ To make this simple task a bit easier, we've built a basic dataclass constructor
 3. When in doubt, use lognormal distributions to estimate. 
     - Most biologic phenomena follow a lognormal distribution (this came from a colleague of mine [lognormal and bioscience](https://stat.ethz.ch/~stahel/lognormal/bioscience.pdf)). 
 
-## What are some fundamental design principles when contributing to this repo? 
-1. Follow the [PEP-8](https://www.python.org/dev/peps/pep-0008/) syntax guide for your code, specifically focused on the following:
+## Contributing to mcbizmod
+1. Before contributing to this CVS Health sponsored project, you will need to sign the associated [Contributor License Agreement](https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&FormId=uGG7-v46dU65NKR_eCuM1xbiih2MIwxBuRvO0D_wqVFURVU2VkFKTDlGNk8xUjJEMTBVSVpRUE1EMi4u&Token=abe8f4b296fb48a587bac21bce6706b3).
+2. Follow the [PEP-8](https://www.python.org/dev/peps/pep-0008/) syntax guide for your code, specifically focused on the following:
     * Function names should reflect usage instead of implementation.
     * Function and variable names should be of the `lowercase_with_underscore` style. 
     * Globally-used names should be of the `UPPERCASE_WITH_UNDERSCORE` style.
-2. Minimize dependencies.
-3. Where possible, avoid list comprehensions. They have a _smell_. 
-4. Leverage the power of logging (although we don't, here).
-5. Most of all: Keep it simple and smartly objective.
+3. Minimize dependencies.
+4. Where possible, avoid list comprehensions. They have a _smell_. 
+5. Leverage the power of logging (although we don't, here).
+6. Most of all: Keep it simple and smartly objective.
