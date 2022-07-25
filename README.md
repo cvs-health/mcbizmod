@@ -45,7 +45,7 @@ To make this simple task a bit easier, we've built a basic dataclass constructor
     - Most biologic phenomena follow a lognormal distribution (this came from a colleague of mine [lognormal and bioscience](https://stat.ethz.ch/~stahel/lognormal/bioscience.pdf)). 
 
 ## Contributing to mcbizmod
-1. Before contributing to this CVS Health sponsored project, you will need to sign the associated [Contributor License Agreement](https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&FormId=uGG7-v46dU65NKR_eCuM1xbiih2MIwxBuRvO0D_wqVFURVU2VkFKTDlGNk8xUjJEMTBVSVpRUE1EMi4u&Token=abe8f4b296fb48a587bac21bce6706b3).
+1. Before contributing to this CVS Health sponsored project, you will need to sign the associated [Contributor License Agreement](https://forms.office.com/Pages/ResponsePage.aspx?id=uGG7-v46dU65NKR_eCuM1xbiih2MIwxBuRvO0D_wqVFURVU2VkFKTDlGNk8xUjJEMTBVSVpRUE1EMi4u).
 2. Follow the [PEP-8](https://www.python.org/dev/peps/pep-0008/) syntax guide for your code, specifically focused on the following:
     * Function names should reflect usage instead of implementation.
     * Function and variable names should be of the `lowercase_with_underscore` style. 
